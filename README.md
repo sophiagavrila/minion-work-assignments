@@ -10,6 +10,7 @@ Write a function called `solution(data, n)` that takes in a list of less than 10
 
 ## Test cases
 Your code should pass the following test cases. <br>
+*Please note that there are 10 total JUnit tests, these are just 2 examples.*
 
 #### Java cases
 ```
